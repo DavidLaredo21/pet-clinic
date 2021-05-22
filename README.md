@@ -11,6 +11,7 @@ Feel free to fork this repo.
 
 # Levantar utilizando MySQL
 
+
 Por defecto la aplicación levanta utilizando una BD embebida, para levantar la aplicación con MySQL seguir lo siguientes pasos:
 
 **Levantar MySQL**
